@@ -1,0 +1,14 @@
+{
+  "test@example.com": {
+    "id": 1782295762141,
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$bBanPv4aeez/A7NZApSxDOSNVWmdG7Xmdf.1SCtsiMZxOSRClnsa2"
+  },
+  "lavanya@gmail.com": {
+    "id": 1782295855234,
+    "name": "lavanya",
+    "email": "lavanya@gmail.com",
+    "password": "$2b$10$XaZLXRJqnKqahwQyZkBgre6cb8nug6nLTUBMZv9xq0y9brgt323u6"
+  }
+}
