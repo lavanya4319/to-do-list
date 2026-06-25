@@ -3,7 +3,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 const authApi = axios.create({
-  baseURL: "http://localhost:5000/api/auth",
+  baseURL: import.meta.env.VITE_API_BASE_URL || "/api/auth",
 });
 
 function Register() {
