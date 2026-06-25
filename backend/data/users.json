@@ -10,5 +10,11 @@
     "name": "lavanya",
     "email": "lavanya@gmail.com",
     "password": "$2b$10$XaZLXRJqnKqahwQyZkBgre6cb8nug6nLTUBMZv9xq0y9brgt323u6"
+  },
+  "newuser@example.com": {
+    "id": 1782399706192,
+    "name": "Test User 2",
+    "email": "newuser@example.com",
+    "password": "$2b$10$9wx32Y1warIq6jQpP89g0OPllkAa5VlWkBdGT.Df//aW2HvE/KfRS"
   }
 }
